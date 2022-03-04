@@ -19,6 +19,7 @@ Igale registreeritud kasutajale genereeritakse automaatselt neile isiklik kanal 
 + Kujundajad – disainivad kasutajaliidest, veebilehekülje üldist vaadet
 + Administraatorid – witchi adminid, haldavad kogu twitchi
 + Osakondade juhid - Organiseerivad ja kordineerivad töötajaid.
++ https://liisikuuskull.atlassian.net/jira/software/projects/VX2022/boards/1/backlog?selectedIssue=VX2022-1
 
 
 
